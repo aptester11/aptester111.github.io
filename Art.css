@@ -1,0 +1,252 @@
+html {
+    font-family: " questa", "questa regular", "Arial", sans-serif;
+	{
+	body {
+    background-color: #D0D2C4; 
+    margin: 0;
+	}
+	p {
+    color: #5d6660;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "questa", "questa regular", "Arial", sans-serif;
+}
+header {
+    height: 80px;
+    background-color: #ffffff;
+}
+#header1 {
+    width: 75%;
+    margin: auto;
+}
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+.col-3 {
+    width: 32%;
+    float: left;
+}
+.logo {
+    padding-top: 30px;   
+}
+.menu {
+    margin-top: 32px;  
+}
+.menu li {
+    list-style-type: none;
+    display: inline;
+    font-size: .85em;
+    color: #8e8e8e;
+    padding-right: 30px;
+}
+#top-section-main {
+    background-image: url(../pigimg/piggyb.jpg);
+    height: 740px;
+    border: none;
+}
+#top-section- page-content {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+#top-section-page-content h1 {
+    font-size: 4em;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 100px;
+    margin-bottom: 10px;
+}
+#top-section-content p {
+    font-size: 1.3em;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0px;
+	}
+#feature-section {
+    padding-top: 100px;
+}
+.feature1 {
+    margin: auto;
+    width: 80%;
+    text-align: center;
+    padding-top: 100px;
+}
+.table {
+    border-collapse: collapse;
+}
+
+.table, th, td {
+    border: 1px solid plum1;
+}
+.table {
+    border: 2.5px solid black;
+}
+.table {
+    width: 100%;
+}
+
+.th {
+    height: 60px;
+}
+.th {
+    text-align: left;
+}
+.td {
+    height: 50px;
+    vertical-align: bottom;
+}
+.tr:hover {background-color: #e3170
+}
+.feature1 .col-3 img {
+    width: 100%; 
+}
+.feature1 .col-3 p {
+    font-size: .9em;
+    letter-spacing: 1px;
+}
+.feature1 .col-3 {
+    padding: 10px;
+    width: 30%;
+}
+.col-2 {
+    float: left;
+    width: 48%;
+}
+#showcase1-container {
+    padding-top: 60px;
+    background-color: #e2ddb5;
+    width: 100%;
+    clear: both;
+}
+.showcase {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+    
+}
+.showcase1pic {
+    width: 90%;   
+}
+.feature-text {
+    padding-top: 250px;
+    padding-left: 50px;
+}
+.section-title {
+    width: 75%;
+    margin: auto;
+    font-weight: 200;
+    line-height: 1.5em;
+}
+#sign-up-shortcut {
+    background-image: url(../Images/coins.jpg);
+    background-position: 50% 50%;
+    padding-bottom: 45px;
+}
+.showcase {
+    font-size: 4em;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 0;
+    padding-top: 100px;
+	font-family: "san-serif"
+}
+.col-1 p {
+    font-size: 1.6em;
+    font-weight: 300;
+    color: ##474747;
+    text-align: center;
+    margin: 0;
+    padding-bottom: 100px;
+}
+.signupBTN {
+    background-color: #484D46;
+    color: #ffffff;
+    font-size: 1em;
+    font-weight: 200;
+    text-decoration: none;
+    padding: 30px 90px;
+    
+}
+.signupBTN:hover {
+    background-color: #5cbf2a;   
+}
+.signupform {
+    background-color: #f6f8fa;
+    margin-right: 200px;
+    padding: 0px 50px 10px 50px;
+}
+.signupform h6 {
+    color: black;
+    padding-top: 15px;
+    font-size: .9em;
+    text-align: center;
+}
+.top-margin {
+    margin-top:100px;
+    margin-left: 100px;
+}
+input {
+    margin: 0;
+    width: 100%;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    border: none;
+    margin-top: 15px;
+    
+}
+button {
+    width: 100%;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+    margin: 0;
+    background-color: #6dc77a;
+    color: #ffffff;
+    border: none;
+    margin-top: 15px;
+}
+footer {
+    background-color: black;
+    clear: both;
+    height: 500px;
+    background-image: url(../pigimg/piggyb.jpg);
+    background-position: 50% 50%;
+}
+.social-footer {
+    width: 33%;
+    float: left;
+    height: 40%;
+}
+.social-footer:hover {
+    background-color: black;
+    opacity: .5;
+}
+.center {
+    width: 50px;
+    margin: auto;
+    padding-top: 60px;
+}
+.copyright {
+    color: #ffffff;
+    font-size: .9em;
+    text-align: center;
+    display: block;
+    padding-top: 15px;
+    
